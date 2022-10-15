@@ -12,3 +12,6 @@ scholarships. For each type of scholarship, different colums with various attrib
 After choosing the scholarship type, we put a tick mark on the scholarship type we have selected and then we write the ID of the student, change the decision then
 write the reason. The table will be updated after we submit the changes. A note is given that we have to tick the chosen scholarship if we wish to update the table
 and the database on PHPMyAdmin.
+
+
+Video Showcase of the Project is available on youtube: https://youtu.be/nLCd-6pk8yo
